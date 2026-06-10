@@ -8,7 +8,7 @@ Canonical setup guide for full-stack TypeScript projects.
 
 When starting a new project, tell Claude Code:
 
-> Follow the setup guide in `/home/sr1k5/myStuff/my-fs-ts-setup/CLAUDE.md` exactly and scaffold the project from the checklist at the bottom.
+> Follow the setup guide in `CLAUDE.md` exactly and scaffold the project from the checklist at the bottom.
 
 ## Stack
 
